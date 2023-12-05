@@ -9,7 +9,7 @@ def ikinci():
 
 a = input("Bir sayi giriniz: ")
 
-if a == '0':
+if a == '1':
   birinci()
  
 else:
